@@ -28,10 +28,8 @@ pip install -r requirements.txt
 - **test_results_raw/**: Directory with raw test data.
 - **results.csv**: Consolidated test results in CSV format.
 - **requirements.txt**: Dependencies needed for the project.
-- **LICENSE**: License details for the repository.
 - **PowerPoint.pptx**: Presentation summarizing the research findings.
 - **Research_Paper.pdf**: Detailed research paper.
-- **README.md**: This README file.
 
 ## Configurations and Settings
 
