@@ -1,8 +1,0 @@
-Number of convolution/pooling layers: 1
-Convolution Activation function: leaky_relu
-Fully Connected Activation function: tanh
-Number of neurons: 50
-Number of epochs: 30
-Learning rate: 0.0001
-Weight scale: 0.05
-Neither label: No
