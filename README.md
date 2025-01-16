@@ -1,11 +1,5 @@
 # CNN Research
 
-## Author
-Kenyon LeBlanc
-
-## Special Thanks
-Dr. Girard
-
 ## Overview
 This repository contains the code and resources used in the research on convolutional neural networks (CNNs). It includes the following:
 - Python scripts for data analysis, model configuration, and testing.
