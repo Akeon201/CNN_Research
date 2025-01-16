@@ -12,7 +12,9 @@ This repository contains the code and resources used in the research on convolut
 
 ### Installation
 To set up the required environment, run:
-
+```
+pip install -r requirements.txt
+```
 
 
 # File Structure
