@@ -80,7 +80,7 @@ The experiment settings are defined in the `config.py` file within the **code** 
 - **test_num**: Number of testing samples (max: 6,000).
 
 ## Research Paper
-You can find the detailed research paper in the repository: **Research_Paper.pdf**.
+You can find the detailed research paper in the repository: **[Research_Paper.pdf](./Research_Paper.pdf)**.
 
 ## Results
-The consolidated results of the CNN experiments can be found in **results.csv**.
+The consolidated results of the CNN experiments can be found in **[results.csv](./results.csv)**.
